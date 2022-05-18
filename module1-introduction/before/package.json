@@ -1,0 +1,14 @@
+{
+  "name": "module1",
+  "version": "1.0.0",
+  "description": "trying out tc",
+  "main": "index.js",
+  "scripts": {
+    "tests": "testcafe chrome src/"
+  },
+  "author": "amit",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^1.18.6"
+  }
+}
